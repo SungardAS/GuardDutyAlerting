@@ -3,7 +3,7 @@
 
 Creates a capability to monitor GuardDuty findings and sent alerts.
 
-![Sample Alert Flow](https://github.com/SungardAS/GuardDutyAlerting/blob/master/docs/images/GuardDuty%20Alerting%20Flow.png?raw=true)
+![Sample Alert Flow](/docs/images/GuardDuty%20Alerting%20Flow.png)
 
 
 
